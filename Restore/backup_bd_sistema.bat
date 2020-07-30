@@ -1,0 +1,1 @@
+C:\"Program Files"\EasyPHP5.3.0\mysql\bin\mysqldump --user=root --password=liberar7777 --opt pdvtex > C:\PdvTex\Backup\pdvtex.sql
